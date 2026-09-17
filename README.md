@@ -4,7 +4,7 @@
 
 I'm a programmer, community engagement professional, and very curious person based in Toronto.
 
-My background sits somewhere between **technology, nonprofit programs, operations, research, and community-building** — which means I tend to get interested in messy problems that involve people, information, and systems that aren't working quite as well as they could.
+My background sits somewhere between **technology, nonprofit programs, operations, research, and community-building** which means I tend to get interested in messy problems that involve people, information, and systems that aren't working quite as well as they could.
 
 I have a **B.Sc. in Bioanthropology** and a **Diploma in Computer Programming**, and I've worked across nonprofit programming, digital platforms, events, communications, web development, and NLP/AI research.
 
