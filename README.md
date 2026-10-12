@@ -1,44 +1,28 @@
 # Hi, I'm Gabriela 👋🏽
 
-### ✦ technology · community · systems · ideas
+### ✦ technology · community · systems · entrepreneurship
 
-I'm a programmer, community engagement professional, and very curious person based in Toronto.
+I'm a multidisciplinary professional, curious problem-solver, and early-stage founder based in Toronto.
 
-My background sits somewhere between **technology, nonprofit programs, operations, research, and community-building** which means I tend to get interested in messy problems that involve people, information, and systems that aren't working quite as well as they could.
+My background sits at the intersection of technology, nonprofit programs, marketing, operations, growth, and community-building. I'm interested in problems where technology, human behaviour, and existing systems intersect, especially when those systems create unnecessary barriers for people.
 
-I have a **B.Sc. in Bioanthropology** and a **Diploma in Computer Programming**, and I've worked across nonprofit programming, digital platforms, events, communications, web development, and NLP/AI research.
+I have a B.Sc. in Biological Anthropology and a Diploma in Computer Programming, and I've worked across program management, digital platforms, events, communications, web development, business operations, and NLP/AI research.
 
 ---
 
-## 🌱 What I'm exploring
+## 🐞 What I'm building
 
-Right now, I'm especially interested in technology that makes complicated systems easier for ordinary people to navigate.
+PenBug — Making friendship more accessible
 
-### 🧭 Life navigation
+I'm the founder of PenBug, an early-stage digital friendship platform designed for people with disabilities, starting with adults with intellectual and developmental disabilities.
 
-I'm exploring what a **navigation system for the complicated parts of life** could look like.
+Inspired by my sister Daniela, PenBug addresses the barriers that can make forming and maintaining friendships difficult, including accessibility, language, transportation, scheduling, and dependence on caregiver availability.
 
-When something unfamiliar happens — losing a job, moving somewhere new, becoming a caregiver, starting a business, or navigating another complex system — people are often expected to already know:
+We're starting by reimagining the traditional pen-pal experience through accessible, asynchronous digital letters. The platform is being designed to match people based on shared interests, languages, and communication preferences, with options for independent or supported participation.
 
-* what to search for
-* what questions to ask
-* which systems apply to them
-* where trustworthy information lives
-* and what they should do first
+The long-term vision is to expand across disability communities, languages, and borders, and eventually introduce additional ways to connect, including voice and video. Individual participation will always be free.
 
-I'm interested in whether technology can take on more of that complexity and help people move from:
-
-**“I don't know what I'm supposed to do.”**
-
-to:
-
-**“Here's where I am, here's where I'm trying to go, and here's my route forward.”**
-
-### 🗂️ Organizational knowledge
-
-I'm also exploring ideas around **institutional knowledge and organizational memory**, especially for small and mission-driven organizations.
-
-A lot of important knowledge lives in people's heads, inboxes, documents, project tools, and scattered systems — and disappears when people leave. I'm interested in ways of making that knowledge more persistent, structured, and genuinely usable.
+Currently in the early stages of development and validation.
 
 ---
 
@@ -86,13 +70,13 @@ Program design · community engagement · research · ethnographic thinking · e
 
 ## 💭 Things I think about a lot
 
-`How do people find what they don't know to search for?`
+How can technology remove barriers instead of creating new ones?
 
-`What happens when information exists but isn't usable?`
+Why do basic opportunities depend so heavily on someone's resources, knowledge, or support network?
 
-`How can technology absorb complexity instead of creating more of it?`
+How do we build technology around different human needs rather than expecting everyone to function the same way?
 
-`What should the internet look like if we optimize for people instead of attention?`
+What would the internet look like if we prioritized genuine connection over engagement?
 
 ---
 
